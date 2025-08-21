@@ -91,17 +91,20 @@ Step2: Add a Data Source
 Step3: File Analysis
 • Application
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde40829-5bf3-40bc-9486-fc1f283ec721" />
+<img width="796" height="419" alt="image" src="https://github.com/user-attachments/assets/5eab2288-ab07-45a5-a4a2-98a8416aed2b" />
+
 
 
 • File Metadata
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a3bb9cd-1b63-4ce4-b4e6-c6a73b1e6761" />
+<img width="790" height="426" alt="image" src="https://github.com/user-attachments/assets/45e0c24d-25f5-4df7-930e-68be2603f608" />
+
 
 
 • Click OS Account.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c77c21e9-6fdc-4cd7-958a-c904cb6b23dc" />
+<img width="797" height="421" alt="image" src="https://github.com/user-attachments/assets/f00f0b0a-f0b3-44ca-b1fd-29a9bded373b" />
+
 
 
 
@@ -109,7 +112,7 @@ Step3: File Analysis
 
 • Generate Report
 
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/12a44de1-688c-497a-a534-bff40147ee9d" />
+<img width="796" height="395" alt="image" src="https://github.com/user-attachments/assets/dc215918-d540-4b46-87ad-dddc5a56e97b" />
 
 
 ## RESULT:
