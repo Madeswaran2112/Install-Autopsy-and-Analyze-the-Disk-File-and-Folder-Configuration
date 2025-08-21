@@ -50,8 +50,67 @@ Export or recover files if required for the investigation.
 7. Explore file/folder structure in the navigation pane.
 8.Export selected files for further examination.
 
+
+
+## CREATING A DISK PARTITION:
+Step1: Open File Manager
+● Right-click This PC → Click Show More Options.
+
+● Select Manage.
+
+Step2: Access Disk Management
+● In the new window, select Disk Management.
+
+Step3: Shrink the C Drive to Allocate Space
+• Locate C: drive → Right-click → Select Shrink Volume.
+• Enter the amount of memory to allocate for the new disk.
+• Click Shrink.
+
+Step4: Create a New Volume
+• Right-click on the newly unallocated space → Select New Simple Volume.
+
+• Follow the wizard and assign a disk name.
+
+• Click Finish to complete the process.
+
+• The new Disk Partition is created
+
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/4a4e8351-7788-4624-b38c-d2620e83e115" />
+
+
+## ANALYSING FILES USING AUTOPSY:
+Step1: Create a Case
+• Enter a case name and select a location to store the case data.
+
+• Provide a case number and investigator details if required.
+
+Step2: Add a Data Source
+• Click "Add Data Source" and choose the type:
+
+• Select the data source and let Autopsy process it.
+Step3: File Analysis
+• Application
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde40829-5bf3-40bc-9486-fc1f283ec721" />
+
+
+• File Metadata
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a3bb9cd-1b63-4ce4-b4e6-c6a73b1e6761" />
+
+
+• Click OS Account.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c77c21e9-6fdc-4cd7-958a-c904cb6b23dc" />
+
+
+
 ## OUTPUT:
-File and Folder Configuration Analysis Results
+
+• Generate Report
+
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/12a44de1-688c-497a-a534-bff40147ee9d" />
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
