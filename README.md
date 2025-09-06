@@ -75,7 +75,7 @@ Step4: Create a New Volume
 
 • The new Disk Partition is created
 
-<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/4a4e8351-7788-4624-b38c-d2620e83e115" />
+
 
 
 ## ANALYSING FILES USING AUTOPSY:
@@ -90,6 +90,9 @@ Step2: Add a Data Source
 • Select the data source and let Autopsy process it.
 Step3: File Analysis
 • Application
+
+<img width="1687" height="999" alt="image" src="https://github.com/user-attachments/assets/cbdf6f72-9d0b-4782-9707-71cc096e9689" />
+
 
 <img width="796" height="419" alt="image" src="https://github.com/user-attachments/assets/5eab2288-ab07-45a5-a4a2-98a8416aed2b" />
 
