@@ -1,4 +1,4 @@
-# Install Autopsy and Analyze the Disk File and Folder Configuration
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffbf545e-f8ec-441d-a8cb-d97512710eae" /># Install Autopsy and Analyze the Disk File and Folder Configuration
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
@@ -94,19 +94,21 @@ Step3: File Analysis
 <img width="1687" height="999" alt="image" src="https://github.com/user-attachments/assets/cbdf6f72-9d0b-4782-9707-71cc096e9689" />
 
 
-<img width="796" height="419" alt="image" src="https://github.com/user-attachments/assets/5eab2288-ab07-45a5-a4a2-98a8416aed2b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/618dc9f6-2ae2-4c5b-8587-41645c963e6f" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/169de6ea-abad-4134-86a0-5dc0d4cbcf48" />
 
 
 
 • File Metadata
 
-<img width="790" height="426" alt="image" src="https://github.com/user-attachments/assets/45e0c24d-25f5-4df7-930e-68be2603f608" />
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d149f4ca-7ff0-4e18-9cbb-758753aa3a15" />
 
-• Click OS Account.
 
-<img width="797" height="421" alt="image" src="https://github.com/user-attachments/assets/f00f0b0a-f0b3-44ca-b1fd-29a9bded373b" />
 
 
 
@@ -115,7 +117,7 @@ Step3: File Analysis
 
 • Generate Report
 
-<img width="796" height="395" alt="image" src="https://github.com/user-attachments/assets/dc215918-d540-4b46-87ad-dddc5a56e97b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1681b9a3-170e-4e59-a3bc-f09e0ec36e35" />
 
 
 ## RESULT:
